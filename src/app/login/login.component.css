@@ -1,0 +1,16 @@
+.backimage {
+background-image:url('../../assets/newimage.png'); 
+background-position: center; 
+background-repeat: no-repeat; 
+background-size: cover;
+}
+
+.box {
+    height: 30%;
+    width: 50%;
+    background: white;
+    opacity: 0.6;
+    border-radius: 1.2rem;
+    position: absolute;
+    margin: 15% 25%;
+}

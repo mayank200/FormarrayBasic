@@ -1,0 +1,13 @@
+.newbtn{
+    background: #0ae0ff;
+    border: none;
+    border-radius: 0.5rem;
+    width: 15%;
+    height: auto;
+}
+
+.time {
+    font-weight: 500;
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+}
